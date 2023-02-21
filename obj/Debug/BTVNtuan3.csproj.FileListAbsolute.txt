@@ -1,0 +1,12 @@
+D:\K2N2\Winform\BTVNtuan3\bin\Debug\BTVNtuan3.exe.config
+D:\K2N2\Winform\BTVNtuan3\bin\Debug\BTVNtuan3.exe
+D:\K2N2\Winform\BTVNtuan3\bin\Debug\BTVNtuan3.pdb
+D:\K2N2\Winform\BTVNtuan3\obj\Debug\BTVNtuan3.csproj.AssemblyReference.cache
+D:\K2N2\Winform\BTVNtuan3\obj\Debug\BTVNtuan3.csproj.SuggestedBindingRedirects.cache
+D:\K2N2\Winform\BTVNtuan3\obj\Debug\BTVNtuan3.Form1.resources
+D:\K2N2\Winform\BTVNtuan3\obj\Debug\BTVNtuan3.Properties.Resources.resources
+D:\K2N2\Winform\BTVNtuan3\obj\Debug\BTVNtuan3.csproj.GenerateResource.cache
+D:\K2N2\Winform\BTVNtuan3\obj\Debug\BTVNtuan3.csproj.CoreCompileInputs.cache
+D:\K2N2\Winform\BTVNtuan3\obj\Debug\BTVNtuan3.exe
+D:\K2N2\Winform\BTVNtuan3\obj\Debug\BTVNtuan3.pdb
+D:\K2N2\Winform\BTVNtuan3\obj\Debug\BTVNtuan3.Form2.resources
