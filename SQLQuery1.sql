@@ -1,5 +1,5 @@
 ﻿CREATE TABLE HocSinh2 (
- MaHS varchar(10),
+ MaHS varchar(10) primary key,
  Ten varchar(100),
  Quequan varchar(255),
  Ngaysinh Date,
